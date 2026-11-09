@@ -87,9 +87,9 @@ MIT — see [LICENSE](LICENSE). Use it, fork it, adapt the schema for your own c
   title   = {How to Build a Second Brain for a Digital Investigation --- A Case Study},
   author  = {Pawlaszczyk, Dirk and Labudde, Dirk and Engler, Philipp and Bodach, Ronny
              and Kolouch, Jan and Kov\'a\v{r}, David and Spranger, Michael and Hummert, Christian},
-  journal = {CFATI},
+  journal = {Digital Threats - Research an Practice},
   year    = {2026},
-  note    = {In review -- volume/issue/DOI to follow}
+  note    = {In review (DTRAP-2026-0205) -- volume/issue/DOI to follow}
 }
 ```
 
